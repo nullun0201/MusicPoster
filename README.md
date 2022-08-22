@@ -17,4 +17,5 @@ MacOS Monterey 12.4
 ユーザー新規登録をしてからアプリの利用を開始します。  
 「New Content」より「Name」「body」を入力し、音楽ファイルをアップロードを投稿します。  
 editから再度編集できます。  
-Contentの詳細画面に遷移してコメントを残すことができます。
+Contentの詳細画面に遷移してコメントを残すことができます。  
+![デモ](https://user-images.githubusercontent.com/107804020/185935121-3830577f-79c3-47e1-ac60-609ab05afaf3.gif)
