@@ -4,7 +4,7 @@ MusicPoster
 ## 開発環境  
 Ruby 3.1.2  
 Ruby on Rails 7.0.3.1  
-VsCode
+VsCode  
 MacOS Monterey 12.4
 
 ## アプリケーション概要  
