@@ -1,0 +1,12 @@
+<div id="edit", class="big-bg">
+<h1>Editing content</h1>
+
+<%= render "form", content: @content %>
+<td><%= button_to '削除', @content, method: :delete, data: { confirm: 'Are you sure?' } %>
+
+<div>
+<div>
+ <!--<%= link_to "Show this content", @content %> |
+   link_to "Back to contents", contents_path %>-->
+</div>
+</div>

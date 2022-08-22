@@ -1,0 +1,30 @@
+
+.big-bg{
+  padding: 300px;
+  background-size: cover;
+  background-size: 100% 100%;
+  background-color:rgba(255, 255, 255, 0.479);
+  background-blend-mode: lighten;
+}
+
+#index{
+  background-image: image-url('wataboku.jpg');
+}
+
+#show{
+  background-image: image-url('1099428.jpg');
+}
+
+#new{
+  background-image: image-url('1051360.jpg');
+}
+
+#edit{
+  background-image: image-url('1100018.png');
+}
+
+
+p {
+  margin-bottom: 50px;
+}
+@import "bulma"
