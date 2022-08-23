@@ -22,9 +22,9 @@
 <p><%= link_to "edit", edit_content_path(@content) %>
 
 <h2>コメント一覧<h2>
-<% @content.comments.each do |comment| %>
-<p><%= comment.comment %></p>
-<% end %>
+  <% @content.comments.each do |comment| %>
+    <p><%= comment.comment %></p>
+  <% end %>
 <br>
 <h2>コメント投稿<h2>
 <%= form_with(model:[ @content, @content.comments.build ], local:true) do |form| %>
